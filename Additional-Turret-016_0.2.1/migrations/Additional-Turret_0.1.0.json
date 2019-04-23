@@ -1,0 +1,17 @@
+{
+"entity":
+	[
+		["at_LC_turret", "at_LC_b"],
+		["at_CR_turret", "at_CR_b"]
+	],
+"item":
+	[
+		["at_LC_turret_area", "at_LC_b"],
+		["at_CR_turret_area", "at_CR_b"]
+	],
+"recipe":
+	[
+		["at_LC_turret_area", "at_LC_b"],
+		["at_CR_turret_area", "at_CR_b"]
+	]
+}

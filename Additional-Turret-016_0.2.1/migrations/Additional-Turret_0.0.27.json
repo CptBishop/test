@@ -1,0 +1,24 @@
+{
+"entity":
+	[
+		["at-explosion-wall", "stone-wall"],
+		["at-physical-wall", "stone-wall"],
+		["at-acid-wall", "stone-wall"],
+		["at-all-wall", "stone-wall"],
+		["at-explosion-gate", "gate"],
+		["at-physical-gate", "gate"],
+		["at-acid-gate", "gate"],
+		["at-all-gate", "gate"]
+	],
+"item":
+	[
+		["at-explosion-wall", "stone-wall"],
+		["at-physical-wall", "stone-wall"],
+		["at-acid-wall", "stone-wall"],
+		["at-all-wall", "stone-wall"],
+		["at-explosion-gate", "gate"],
+		["at-physical-gate", "gate"],
+		["at-acid-gate", "gate"],
+		["at-all-gate", "gate"]
+	]
+}

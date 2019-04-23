@@ -1,0 +1,25 @@
+{
+"entity":
+	[
+		["acidthrower-turret", "at-acidthrower-turret"],
+		
+		["beam-turret-mk1", "at-beam-turret-mk1"],
+		["beam-turret-mk2", "at-beam-turret-mk2"],
+		["laser-advanced", "at-advanced-laser"]
+	],
+"item":
+	[
+		["acidthrower-turret", "at-acidthrower-turret"],
+		["beam-turret-mk1", "at-beam-turret-mk1"],
+		["beam-turret-mk2", "at-beam-turret-mk2"],
+		["laser-advanced", "at-advanced-laser"]
+	],
+"recipe":
+	[
+		["acidthrower-turret", "at-acidthrower-turret"],
+		
+		["beam-turret-mk1", "at-beam-turret-mk1"],
+		["beam-turret-mk2", "at-beam-turret-mk2"],
+		["laser-advanced", "at-advanced-laser"]
+	]
+}
